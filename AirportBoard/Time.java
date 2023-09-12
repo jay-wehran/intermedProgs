@@ -1,9 +1,3 @@
-/***
- * 
- * Author: Unknown
- * Date modified: June 22, 2023
- * Modified By: Jason Wehran
- */
 public class Time implements Comparable<Time>{
     private int hours;
     private int minutes;
