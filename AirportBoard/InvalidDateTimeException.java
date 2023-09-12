@@ -1,8 +1,3 @@
-/***
- * 
- * Author: Unknown
- * Date modified: June 22, 2023
- */
 public class InvalidDateTimeException extends Exception{
     /**
      * no-arh constructor
